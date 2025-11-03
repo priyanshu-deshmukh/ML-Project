@@ -83,4 +83,4 @@ git push origin main
 - Add a small `data/` README or a download script to automate dataset setup for collaborators.
 
 ## Contact
-If you want me to add a README badge, CI, or a small example script to run the notebook headlessly, tell me which option you prefer and I will add it.
+priyanshudeshmukh2022@gmail.com
